@@ -1,0 +1,113 @@
+Service Name :db2c_DB2
+Port No :50000
+
+                                        
+
+Product to install:                     	DB2 Express-C - DB2COPY1
+
+Installation type:                      	Typical
+
+                                        
+
+DB2 copy name:                          	DB2COPY1
+
+Set as default DB2 copy:                	Yes
+
+Set as default IBM database client interface copy:	Yes
+
+                                        
+
+Selected features:                      
+
+    Base application development tools  	
+
+    Base client support                 	
+
+    Administration tools                	
+
+    IBM Data Server Provider for .NET   	
+
+    First Steps                         	
+
+    Spatial Extender client             	
+
+    DB2 Update Service                  	
+
+    JDBC Support                        	
+
+    DB2 LDAP support                    	
+
+    ODBC Support                        	
+
+    OLE DB Support                      	
+
+    Sample database source              	
+
+    SQLJ Support                        	
+
+    IBM Secure Shell Server for Windows 	
+
+    DB2 WMI Provider                    	
+
+                                        
+
+Languages:                              
+
+    English                             	
+
+                                        
+
+Target directory:                       	C:\Program Files\IBM\SQLLIB
+
+                                        
+
+Space required:                         	1044 MB
+
+Installation specific driver details    
+
+IBM Data Server Driver for ODBC and CLI name:	IBM DB2 ODBC DRIVER - DB2COPY1
+
+OLE DB Provider GUID:                   	{13B561C1-2C3D-44B2-99A8-3571DC6608D9}
+
+                                        
+
+New instances:                          
+
+    Instance name:                      	DB2
+
+        Start instance on reboot:       	Yes
+
+        TCP/IP configuration:           	
+
+            Service name:               	db2c_DB2
+
+            Port number:                	50000
+
+        Instance user information:      	
+
+            User name:                  	sa
+
+                                        
+
+DB2 Administration server:              
+
+    Instance user information:          	
+
+        User name:                      	sa
+
+                                        
+
+                                        
+
+IBM Secure Shell Server for Windows:    
+
+                                        
+
+        IBM SSH Server target directory:	C:\Program Files\IBM\IBM SSH Server
+
+        IBM SSH server service startup type:	Automatic
+
+                                        
+
+Response file name:                     	I:\DB2\Response File\PROD_EXPC.rsp
+
