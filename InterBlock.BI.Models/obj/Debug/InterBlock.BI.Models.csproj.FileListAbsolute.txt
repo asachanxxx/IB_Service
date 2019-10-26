@@ -1,0 +1,20 @@
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.BI.Models\bin\Debug\InterBlock.BI.Models.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.BI.Models\bin\Debug\InterBlock.BI.Models.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.pdb
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.csprojAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.csproj.CoreCompileInputs.cache
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.BI.Models\bin\Debug\Dapper.Contrib.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.BI.Models\bin\Debug\Dapper.dll
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.BI.Models\bin\Debug\Dapper.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.BI.Models\bin\Debug\Dapper.Contrib.xml
+D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.csproj.CopyComplete
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.BI.Models\bin\Debug\InterBlock.BI.Models.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.BI.Models\bin\Debug\InterBlock.BI.Models.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.BI.Models\bin\Debug\Dapper.Contrib.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.BI.Models\bin\Debug\Dapper.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.BI.Models\bin\Debug\Dapper.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.BI.Models\bin\Debug\Dapper.Contrib.xml
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.csprojResolveAssemblyReference.cache
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.pdb

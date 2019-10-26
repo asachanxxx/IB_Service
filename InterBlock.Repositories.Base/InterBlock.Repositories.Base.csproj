@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E3554382-62CF-4ECB-9660-37A86E3847EC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>InterBlock.Repositories.Base</RootNamespace>
+    <AssemblyName>InterBlock.Repositories.Base</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\..\..\..\InterBlock\</SolutionDir>
+    <RestorePackages>true</RestorePackages>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=1.60.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.1.60.1\lib\net451\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Dapper.Contrib, Version=1.60.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.Contrib.1.60.1\lib\net451\Dapper.Contrib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ExtendedRepository.cs" />
+    <Compile Include="iRepositoryBase.cs" />
+    <Compile Include="test.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\InterBlock.BI.Models\InterBlock.BI.Models.csproj">
+      <Project>{4f08528d-fa60-4b7e-801a-9cc57888e74f}</Project>
+      <Name>InterBlock.BI.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.DataEngine.Common\InterBlock.DataEngine.Common.csproj">
+      <Project>{7493ddba-0c5e-4eb9-a6f2-01eb62df63d9}</Project>
+      <Name>InterBlock.DataEngine.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.DataEngine.DB2\InterBlock.DataEngine.DB2.csproj">
+      <Project>{bb331dfd-28b1-4890-9e77-159c934ff5f4}</Project>
+      <Name>InterBlock.DataEngine.DB2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.DataEngine.MSSQL\InterBlock.DataEngine.MSSQL.csproj">
+      <Project>{18cd52d8-ae48-4f0f-af51-1cb0222446fb}</Project>
+      <Name>InterBlock.DataEngine.MSSQL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.DataEngine.MySQL\InterBlock.DataEngine.MySQL.csproj">
+      <Project>{6cae517f-51be-465d-8973-c5eae9311a55}</Project>
+      <Name>InterBlock.DataEngine.MySQL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.DataEngine.PostgreSQL\InterBlock.DataEngine.PostgreSQL.csproj">
+      <Project>{c87c0b2a-b935-4b82-9eaf-80720ffa6a32}</Project>
+      <Name>InterBlock.DataEngine.PostgreSQL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.Helpers.Configurations\InterBlock.Helpers.Configurations.csproj">
+      <Project>{a429f3af-0986-48a5-8537-f6acfb0a58ff}</Project>
+      <Name>InterBlock.Helpers.Configurations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.Helpers.Enums\InterBlock.Helpers.Enums.csproj">
+      <Project>{1995e7ad-0834-44c2-a803-f974fee52d4c}</Project>
+      <Name>InterBlock.Helpers.Enums</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.Helpers.Interfaces\InterBlock.Helpers.Interfaces.csproj">
+      <Project>{c7b581e9-0775-48cb-8a47-ae37fa4fbfdb}</Project>
+      <Name>InterBlock.Helpers.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.Helpers.Utilities\InterBlock.Helpers.Utilities.csproj">
+      <Project>{b260ec27-475a-4c88-91d0-95be3011783e}</Project>
+      <Name>InterBlock.Helpers.Utilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(SolutionDir)\.nuget\NuGet.targets" Condition="Exists('$(SolutionDir)\.nuget\NuGet.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('$(SolutionDir)\.nuget\NuGet.targets')" Text="$([System.String]::Format('$(ErrorText)', '$(SolutionDir)\.nuget\NuGet.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

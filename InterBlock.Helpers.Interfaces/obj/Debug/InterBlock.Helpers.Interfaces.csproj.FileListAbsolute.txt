@@ -1,0 +1,20 @@
+I:\IB\Technology Revamp\InterBlocks\InterBlock.Helpers.Interfaces\bin\Debug\InterBlock.Helpers.Interfaces.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.Helpers.Interfaces\bin\Debug\InterBlock.Helpers.Interfaces.pdb
+I:\IB\Technology Revamp\InterBlocks\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.pdb
+I:\IB\Technology Revamp\InterBlocks\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.csprojResolveAssemblyReference.cache
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Interfaces\bin\Debug\InterBlock.Helpers.Interfaces.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Interfaces\bin\Debug\InterBlock.Helpers.Interfaces.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.dll
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.pdb
+I:\IB\Technology Revamp\Git\IB_NewArchitecture\InterBlocks\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.csprojAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Interfaces\bin\Debug\InterBlock.Helpers.Interfaces.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Interfaces\bin\Debug\InterBlock.Helpers.Interfaces.pdb
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.csprojResolveAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Interfaces\bin\Debug\InterBlock.Helpers.Interfaces.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Interfaces\bin\Debug\InterBlock.Helpers.Interfaces.pdb
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.csprojResolveAssemblyReference.cache
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.dll
+I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.pdb
