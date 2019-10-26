@@ -1,0 +1,21 @@
+I:\IB\Technology Revamp\InterBlocks\InterBlock.Helpers.Enums\bin\Debug\InterBlock.Helpers.Enums.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.Helpers.Enums\bin\Debug\InterBlock.Helpers.Enums.pdb
+I:\IB\Technology Revamp\InterBlocks\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.dll
+I:\IB\Technology Revamp\InterBlocks\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.pdb
+I:\IB\Technology Revamp\InterBlocks\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.csprojResolveAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Enums\bin\Debug\InterBlock.Helpers.Enums.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Enums\bin\Debug\InterBlock.Helpers.Enums.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Enums\bin\Debug\mscorlib.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Enums\bin\Debug\normidna.nlp
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Enums\bin\Debug\normnfc.nlp
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Enums\bin\Debug\normnfd.nlp
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Enums\bin\Debug\normnfkc.nlp
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Enums\bin\Debug\normnfkd.nlp
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.csprojResolveAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlocks\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.pdb
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Enums\bin\Debug\InterBlock.Helpers.Enums.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Enums\bin\Debug\InterBlock.Helpers.Enums.pdb
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.csprojResolveAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.dll
+D:\DONT REMOVE\Projects\Statement Dev\Bin\Statement New\InterBlocks\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.pdb

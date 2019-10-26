@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EC4FCCAA-7336-4C3F-9E94-544E4A3A5B69}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>InterBlock.Api.Common</RootNamespace>
+    <AssemblyName>InterBlock.Api.Common</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\InterBlock.BI.Models\InterBlock.BI.Models.csproj">
+      <Project>{7b0827ef-57e9-4b6f-a2e8-5af5ef5b4709}</Project>
+      <Name>InterBlock.BI.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.Helpers.Enums\InterBlock.Helpers.Enums.csproj">
+      <Project>{1995e7ad-0834-44c2-a803-f974fee52d4c}</Project>
+      <Name>InterBlock.Helpers.Enums</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.Helpers.Interfaces\InterBlock.Helpers.Interfaces.csproj">
+      <Project>{c7b581e9-0775-48cb-8a47-ae37fa4fbfdb}</Project>
+      <Name>InterBlock.Helpers.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.Repositories.Base\InterBlock.Repositories.Base.csproj">
+      <Project>{e3554382-62cf-4ecb-9660-37a86e3847ec}</Project>
+      <Name>InterBlock.Repositories.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.Repositories.Extended\InterBlock.Repositories.Extended.csproj">
+      <Project>{7f71c9f6-ef7f-4f33-a0ca-b8abd6224138}</Project>
+      <Name>InterBlock.Repositories.Extended</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

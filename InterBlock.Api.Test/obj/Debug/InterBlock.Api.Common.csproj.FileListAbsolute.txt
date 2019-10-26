@@ -1,0 +1,12 @@
+D:\DONT REMOVE\Projects\Statement New\InterBlock\InterBlock.Api.Common\bin\Debug\InterBlock.Api.Common.dll.config
+D:\DONT REMOVE\Projects\Statement New\InterBlock\InterBlock.Api.Common\bin\Debug\InterBlock.Api.Common.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlock\InterBlock.Api.Common\bin\Debug\InterBlock.Api.Common.pdb
+D:\DONT REMOVE\Projects\Statement New\InterBlock\InterBlock.Api.Common\bin\Debug\Dapper.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlock\InterBlock.Api.Common\bin\Debug\EntityFramework.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlock\InterBlock.Api.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlock\InterBlock.Api.Common\bin\Debug\Dapper.xml
+D:\DONT REMOVE\Projects\Statement New\InterBlock\InterBlock.Api.Common\bin\Debug\EntityFramework.xml
+D:\DONT REMOVE\Projects\Statement New\InterBlock\InterBlock.Api.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\DONT REMOVE\Projects\Statement New\InterBlock\InterBlock.Api.Common\obj\Debug\InterBlock.Api.Common.csprojResolveAssemblyReference.cache
+D:\DONT REMOVE\Projects\Statement New\InterBlock\InterBlock.Api.Common\obj\Debug\InterBlock.Api.Common.dll
+D:\DONT REMOVE\Projects\Statement New\InterBlock\InterBlock.Api.Common\obj\Debug\InterBlock.Api.Common.pdb
