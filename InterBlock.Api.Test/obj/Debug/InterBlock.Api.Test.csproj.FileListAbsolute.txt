@@ -14,3 +14,19 @@ D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Test\bin\Debug\D
 D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Test\bin\Debug\Dapper.Contrib.xml
 D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Test\bin\Debug\Dapper.xml
 D:\DONT REMOVE\Projects\Statement Dev\InterBlock\InterBlock.Api.Test\obj\Debug\InterBlock.Api.Test.csprojResolveAssemblyReference.cache
+I:\IB\File\IB_Service\InterBlock.Api.Test\bin\Debug\InterBlock.Api.Common.dll.config
+I:\IB\File\IB_Service\InterBlock.Api.Test\bin\Debug\InterBlock.Api.Common.dll
+I:\IB\File\IB_Service\InterBlock.Api.Test\bin\Debug\InterBlock.Api.Common.pdb
+I:\IB\File\IB_Service\InterBlock.Api.Test\bin\Debug\EntityFramework.dll
+I:\IB\File\IB_Service\InterBlock.Api.Test\bin\Debug\EntityFramework.SqlServer.dll
+I:\IB\File\IB_Service\InterBlock.Api.Test\bin\Debug\InterBlock.BI.Models.dll
+I:\IB\File\IB_Service\InterBlock.Api.Test\bin\Debug\Dapper.Contrib.dll
+I:\IB\File\IB_Service\InterBlock.Api.Test\bin\Debug\Dapper.dll
+I:\IB\File\IB_Service\InterBlock.Api.Test\bin\Debug\InterBlock.BI.Models.pdb
+I:\IB\File\IB_Service\InterBlock.Api.Test\bin\Debug\EntityFramework.xml
+I:\IB\File\IB_Service\InterBlock.Api.Test\bin\Debug\EntityFramework.SqlServer.xml
+I:\IB\File\IB_Service\InterBlock.Api.Test\bin\Debug\Dapper.Contrib.xml
+I:\IB\File\IB_Service\InterBlock.Api.Test\bin\Debug\Dapper.xml
+I:\IB\File\IB_Service\InterBlock.Api.Test\obj\Debug\InterBlock.Api.Test.csprojResolveAssemblyReference.cache
+I:\IB\File\IB_Service\InterBlock.Api.Test\obj\Debug\InterBlock.Api.Common.dll
+I:\IB\File\IB_Service\InterBlock.Api.Test\obj\Debug\InterBlock.Api.Common.pdb

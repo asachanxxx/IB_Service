@@ -5,6 +5,7 @@ using System.Net.Http;
 using System.Web.Http;
 using Microsoft.Owin.Security.OAuth;
 using Newtonsoft.Json.Serialization;
+using InterBlock.Helpers.Utilities;
 
 namespace InterBlock.Api.Service
 {
@@ -25,6 +26,12 @@ namespace InterBlock.Api.Service
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
+
+            config.MessageHandlers.Add(new CustomLogHandler());
+
+            Logger.LoggerInitialize();
+            Logger.LogHeader();
+            Logger.LogInfo("Starting Application on Date", DateTime.Now.ToString("dd/MMM/yyyy HH:mm:ss"));
         }
     }
 }

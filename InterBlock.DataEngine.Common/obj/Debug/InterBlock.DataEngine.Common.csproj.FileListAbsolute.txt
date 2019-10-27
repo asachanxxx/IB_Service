@@ -135,3 +135,38 @@ I:\IB\IN\Statement Dev\InterBlock\InterBlock.DataEngine.Common\bin\Debug\InterBl
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.DataEngine.Common\obj\Debug\InterBlock.DataEngine.Common.csprojResolveAssemblyReference.cache
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.DataEngine.Common\obj\Debug\InterBlock.DataEngine.Common.dll
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.DataEngine.Common\obj\Debug\InterBlock.DataEngine.Common.pdb
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.DataEngine.Common.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.DataEngine.Common.pdb
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\Dapper.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.BI.Models.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.DataEngine.DB2.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.DataEngine.MSSQL.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.DataEngine.MySQL.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.DataEngine.PostgreSQL.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.Helpers.Configurations.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.Helpers.Enums.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.Helpers.Interfaces.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\Dapper.Contrib.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.Helpers.Utilities.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\IBMasterKey.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\SystemConfiguration.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\IBLogger.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\iObjectSerializer.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\IBConfig.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\LogConfiguration.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\Encryptor.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.BI.Models.pdb
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.DataEngine.DB2.pdb
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.DataEngine.MSSQL.pdb
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.DataEngine.MySQL.pdb
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.DataEngine.PostgreSQL.pdb
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.Helpers.Configurations.pdb
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.Helpers.Enums.pdb
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.Helpers.Interfaces.pdb
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\Dapper.xml
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\Dapper.Contrib.xml
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\InterBlock.Helpers.Utilities.pdb
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\bin\Debug\SystemConfiguration.xml
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\obj\Debug\InterBlock.DataEngine.Common.csprojResolveAssemblyReference.cache
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\obj\Debug\InterBlock.DataEngine.Common.dll
+I:\IB\File\IB_Service\InterBlock.DataEngine.Common\obj\Debug\InterBlock.DataEngine.Common.pdb

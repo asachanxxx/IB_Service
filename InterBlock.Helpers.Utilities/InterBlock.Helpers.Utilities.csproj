@@ -32,19 +32,41 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Encryptor">
+      <HintPath>..\DLL Pack\Encryptor.dll</HintPath>
+    </Reference>
+    <Reference Include="IBConfig">
+      <HintPath>..\DLL Pack\IBConfig.dll</HintPath>
+    </Reference>
+    <Reference Include="IBConfigControl">
+      <HintPath>..\DLL Pack\IBConfigControl.dll</HintPath>
+    </Reference>
+    <Reference Include="IBLogger">
+      <HintPath>..\DLL Pack\IBLogger.dll</HintPath>
+    </Reference>
+    <Reference Include="IBMasterKey">
+      <HintPath>..\DLL Pack\IBMasterKey.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="SystemConfiguration">
+      <HintPath>..\DLL Pack\SystemConfiguration.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HttpHelpers.cs" />
+    <Compile Include="Logger.cs" />
     <Compile Include="MSSQLQueryCreater.cs" />
     <Compile Include="ObjectXMLPurser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

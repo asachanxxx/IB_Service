@@ -7,3 +7,7 @@ TODO API
 5. Load SQL statements and View From a COnfig Loader. need a loader management 
 6. Need to implement logger
 
+Cofiguration Loader
+===================
+Web config Parameters
+---------------------

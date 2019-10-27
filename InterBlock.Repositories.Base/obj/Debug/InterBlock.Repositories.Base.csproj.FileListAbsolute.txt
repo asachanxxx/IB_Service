@@ -134,6 +134,13 @@ I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.
 I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Enums.dll
 I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Interfaces.dll
 I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Utilities.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\IBMasterKey.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\SystemConfiguration.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\IBLogger.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\iObjectSerializer.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\IBConfig.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\LogConfiguration.dll
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\Encryptor.dll
 I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.BI.Models.pdb
 I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.Common.pdb
 I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.DataEngine.DB2.pdb
@@ -146,6 +153,7 @@ I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.
 I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\InterBlock.Helpers.Utilities.pdb
 I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\Dapper.xml
 I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\Dapper.Contrib.xml
+I:\IB\File\IB_Service\InterBlock.Repositories.Base\bin\Debug\SystemConfiguration.xml
 I:\IB\File\IB_Service\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.csprojResolveAssemblyReference.cache
 I:\IB\File\IB_Service\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.dll
 I:\IB\File\IB_Service\InterBlock.Repositories.Base\obj\Debug\InterBlock.Repositories.Base.pdb

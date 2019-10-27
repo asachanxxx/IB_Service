@@ -178,6 +178,7 @@ I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\bin\Dapper.xml
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.csprojResolveAssemblyReference.cache
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.dll
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.pdb
+I:\IB\File\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.csprojResolveAssemblyReference.cache
 I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.Api.Service.dll.config
 I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.Api.Service.dll
 I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.Api.Service.pdb
@@ -224,6 +225,13 @@ I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.WebPages.Razor.dll
 I:\IB\File\IB_Service\InterBlock.Api.Service\bin\WebGrease.dll
 I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Dapper.Contrib.dll
 I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Dapper.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\IBMasterKey.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\SystemConfiguration.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\IBLogger.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\iObjectSerializer.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\IBConfig.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\LogConfiguration.dll
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Encryptor.dll
 I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.BI.Models.pdb
 I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.Common.pdb
 I:\IB\File\IB_Service\InterBlock.Api.Service\bin\InterBlock.DataEngine.DB2.pdb
@@ -264,6 +272,6 @@ I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Microsoft.Owin.Security.Microso
 I:\IB\File\IB_Service\InterBlock.Api.Service\bin\System.Web.Http.Owin.xml
 I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Dapper.Contrib.xml
 I:\IB\File\IB_Service\InterBlock.Api.Service\bin\Dapper.xml
-I:\IB\File\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.csprojResolveAssemblyReference.cache
+I:\IB\File\IB_Service\InterBlock.Api.Service\bin\SystemConfiguration.xml
 I:\IB\File\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.dll
 I:\IB\File\IB_Service\InterBlock.Api.Service\obj\Debug\InterBlock.Api.Service.pdb

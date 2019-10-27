@@ -7,6 +7,7 @@
                 
  */
 using InterBlock.BI.Models;
+using InterBlock.Helpers.Utilities;
 using InterBlock.Repositories.Base;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
+using System.Web;
 using System.Web.Http;
 
 namespace InterBlock.Api.Service.Controllers
@@ -40,6 +42,7 @@ namespace InterBlock.Api.Service.Controllers
         {
             try
             {
+                
                 return Request.CreateResponse<int>(HttpStatusCode.OK, await _repo.SaveSingle(Entity, 1));
             }
             catch (Exception ex)
@@ -110,6 +113,8 @@ namespace InterBlock.Api.Service.Controllers
         {
             try
             {
+                var IP = HttpHelpers.GetClientIp(Request);
+
                 return Request.CreateResponse<IEnumerable<Accounts>>(HttpStatusCode.OK, await _repo.FindALLRecords());
             }
             catch (Exception ex)
@@ -117,6 +122,9 @@ namespace InterBlock.Api.Service.Controllers
                 return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, ex);
             }
         }
+
+
+       
 
         [HttpGet]
         [Route("FindOneRecord")]
