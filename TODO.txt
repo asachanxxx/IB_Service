@@ -1,0 +1,9 @@
+TODO API
+========
+1. Cofiguration Loader
+2. API management page(need a login)
+3. DB2 Repository Complete
+4. Create Extended repository For Statement Data
+5. Load SQL statements and View From a COnfig Loader. need a loader management 
+6. Need to implement logger
+

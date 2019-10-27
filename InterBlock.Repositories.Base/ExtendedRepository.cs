@@ -58,6 +58,7 @@ namespace InterBlock.Repositories.Base
             catch (Exception ex)
             {
                 throw ex;
+
             }
         }
 

@@ -11,20 +11,44 @@
         null;
 }
 
-<h2 id="@Model.Key.ControllerName">@Model.Key.ControllerName</h2>
+<h2 class="mt-3" id="@Model.Key.ControllerName"><strong> @Model.Key.ControllerName </strong></h2>
 @if (!String.IsNullOrEmpty(controllerDocumentation))
 {
     <p>@controllerDocumentation</p>
 }
 <table class="help-page-table">
-    <thead>
-        <tr><th>API</th><th>Description</th></tr>
+    <thead class="table-dark">
+        <tr>
+        <th>Request Method</th>
+        <th>End Point URL</th>
+        <th>Description</th>
+        </tr>
     </thead>
     <tbody>
     @foreach (var api in Model)
     {
         <tr>
-            <td class="api-name"><a href="@Url.Action("Api", "Help", new { apiId = api.GetFriendlyId() })">@api.HttpMethod.Method @api.RelativePath</a></td>
+            <td width="8%">
+                @{
+        if (api.HttpMethod.Method.ToUpper() == "GET")
+        {
+            <span class="badge badge-primary">@api.HttpMethod.Method</span>
+        }
+        else
+        {
+            <span class="badge badge-pill badge-success">@api.HttpMethod.Method</span>
+        }
+                }
+                 
+            </td>
+            <td class="api-name"><a href="@Url.Action("Api", "Help", new { apiId = api.GetFriendlyId() })"> 
+              
+        
+                                     <span class="ml-2">
+                                         @api.RelativePath
+                                     </span>
+                 
+                </a></td>
             <td class="api-documentation">
             @if (api.Documentation != null)
             {

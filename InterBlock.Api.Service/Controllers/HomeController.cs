@@ -10,7 +10,7 @@ namespace InterBlock.Api.Service.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "InterBlocks- Statement API";
 
             return View();
         }
