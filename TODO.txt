@@ -11,3 +11,17 @@ Cofiguration Loader
 ===================
 Web config Parameters
 ---------------------
+ConfigPath
+SystemKeyPath
+LogSysConfigPath
+LogKeyPath
+
+
+
+
+
+
+
+
+
+

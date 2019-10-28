@@ -6,6 +6,7 @@ using System.Web.Http;
 using Microsoft.Owin.Security.OAuth;
 using Newtonsoft.Json.Serialization;
 using InterBlock.Helpers.Utilities;
+using InterBlock.Helpers.Configurations;
 
 namespace InterBlock.Api.Service
 {
@@ -32,6 +33,15 @@ namespace InterBlock.Api.Service
             Logger.LoggerInitialize();
             Logger.LogHeader();
             Logger.LogInfo("Starting Application on Date", DateTime.Now.ToString("dd/MMM/yyyy HH:mm:ss"));
+            
+        }
+
+        private void InitializePaths() {
+            MainConfigurationPaths.MainResourcePath = System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), @"Interblocks\Statement Module");
+            MainConfigurationPaths.DB2QueryJsonPath = "DB2QueryJson.json";
+            MainConfigurationPaths.MSSQLQueryJsonPath = "MSSQLQueryJson.json";
+            MainConfigurationPaths.MYSQLQueryJsonPath = "MYSQLQueryJson.json";
+            MainConfigurationPaths.PSQLQueryJsonPath = "PSQLQueryJson.json";
         }
     }
 }

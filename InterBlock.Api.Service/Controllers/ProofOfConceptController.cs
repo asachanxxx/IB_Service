@@ -26,6 +26,7 @@ namespace InterBlock.Api.Service.Controllers
         ExtendedRepository<Accounts> _repo;
         public ProofOfConceptController()
         {
+            
             _repo = new ExtendedRepository<Accounts>(new Helpers.Configurations.IBConfiguration() { Connection = new Helpers.Configurations.Connections(System.Configuration.ConfigurationManager.ConnectionStrings["SysConSQL"].ConnectionString ), DbType = Helpers.Enums.DataBaseType.MSSql }, "Accounts");
         }
 

@@ -1,0 +1,14 @@
+[
+    {
+        "QueryDescription": "selectallaccounts",
+        "QueryValue": "select * from sometable"
+    },
+    {
+        "QueryDescription": "selectOneAccount",
+        "QueryValue": "select * from sometable2"
+    },
+    {
+        "QueryDescription": "selectOneAccount",
+        "QueryValue": "SELECT * FROM VW_GET_STATEMENT_DETAILS_PRINT WHERE CRD_NO = @strCardNo AND STMT_SEQ = @strStatementSeqNo ORDER BY ISSUER_TYP, DET_ATTR_ID, DET_STMT_SEQ"
+    }
+]

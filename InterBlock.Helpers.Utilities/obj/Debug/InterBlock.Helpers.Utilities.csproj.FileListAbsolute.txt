@@ -39,3 +39,5 @@ I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\SystemConfiguration
 I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.dll
 I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.pdb
 I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\obj\Debug\InterBlock.Helpers.Utilities.csprojResolveAssemblyReference.cache
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\Newtonsoft.Json.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Utilities\bin\Debug\Newtonsoft.Json.xml

@@ -40,3 +40,10 @@ I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\bin\Debug\In
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.csprojResolveAssemblyReference.cache
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.dll
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.pdb
+I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.pdb
+I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.pdb
+I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.csprojResolveAssemblyReference.cache
+I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.dll
+I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.pdb

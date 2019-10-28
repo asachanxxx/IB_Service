@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C94C7ACA-2E55-4722-A8E0-4E2EAB00F021}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>InterBlock.Repositories.ConfigurationLoaders</RootNamespace>
+    <AssemblyName>InterBlock.Repositories.ConfigurationLoaders</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SQLQueryRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\InterBlock.BI.ViewModels\InterBlock.BI.ViewModels.csproj">
+      <Project>{cea5fb94-7b35-4db1-8aa3-9a1586a60c3a}</Project>
+      <Name>InterBlock.BI.ViewModels</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.Helpers.Configurations\InterBlock.Helpers.Configurations.csproj">
+      <Project>{a429f3af-0986-48a5-8537-f6acfb0a58ff}</Project>
+      <Name>InterBlock.Helpers.Configurations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.Helpers.CyperEngine\InterBlock.Helpers.CyperEngine.csproj">
+      <Project>{20edb422-ab5c-481f-8f96-d1389b220197}</Project>
+      <Name>InterBlock.Helpers.CyperEngine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.Helpers.Enums\InterBlock.Helpers.Enums.csproj">
+      <Project>{1995e7ad-0834-44c2-a803-f974fee52d4c}</Project>
+      <Name>InterBlock.Helpers.Enums</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.Helpers.Utilities\InterBlock.Helpers.Utilities.csproj">
+      <Project>{b260ec27-475a-4c88-91d0-95be3011783e}</Project>
+      <Name>InterBlock.Helpers.Utilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Sample.json" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

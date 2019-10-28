@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Connections.cs" />
     <Compile Include="IBConfiguration.cs" />
+    <Compile Include="MainConfigurationPaths.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
