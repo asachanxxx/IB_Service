@@ -18,3 +18,14 @@ I:\IB\IN\Statement Dev\InterBlock\InterBlock.BI.Models\bin\Debug\Dapper.Contrib.
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.csprojResolveAssemblyReference.cache
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.dll
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.pdb
+D:\File\Statements\IB_Service\InterBlock.BI.Models\bin\Debug\InterBlock.BI.Models.dll
+D:\File\Statements\IB_Service\InterBlock.BI.Models\bin\Debug\InterBlock.BI.Models.pdb
+D:\File\Statements\IB_Service\InterBlock.BI.Models\bin\Debug\Dapper.Contrib.dll
+D:\File\Statements\IB_Service\InterBlock.BI.Models\bin\Debug\Dapper.dll
+D:\File\Statements\IB_Service\InterBlock.BI.Models\bin\Debug\Dapper.xml
+D:\File\Statements\IB_Service\InterBlock.BI.Models\bin\Debug\Dapper.Contrib.xml
+D:\File\Statements\IB_Service\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.dll
+D:\File\Statements\IB_Service\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.pdb
+D:\File\Statements\IB_Service\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.csprojAssemblyReference.cache
+D:\File\Statements\IB_Service\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.csproj.CoreCompileInputs.cache
+D:\File\Statements\IB_Service\InterBlock.BI.Models\obj\Debug\InterBlock.BI.Models.csproj.CopyComplete

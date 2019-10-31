@@ -13,6 +13,13 @@ namespace InterBlock.Helpers.Configurations
         public static string MSSQLQueryJsonPath { get; set; }
         public static string MYSQLQueryJsonPath { get; set; }
         public static string PSQLQueryJsonPath { get; set; }
+
+        public static string ConfigPath { get; set; }
+        public static string SystemKeyPath { get; set; }
+        public static string LogSysConfigPath { get; set; }
+        public static string LogKeyPath { get; set; }
  
+        
+
     }
 }

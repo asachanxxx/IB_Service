@@ -43,6 +43,21 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="IBConfig">
+      <HintPath>..\DLL Pack\IBConfig.dll</HintPath>
+    </Reference>
+    <Reference Include="IBConfigControl">
+      <HintPath>..\DLL Pack\IBConfigControl.dll</HintPath>
+    </Reference>
+    <Reference Include="IBLogger">
+      <HintPath>..\DLL Pack\IBLogger.dll</HintPath>
+    </Reference>
+    <Reference Include="IBMasterKey">
+      <HintPath>..\DLL Pack\IBMasterKey.dll</HintPath>
+    </Reference>
+    <Reference Include="IBTimeSpanControl">
+      <HintPath>..\DLL Pack\IBTimeSpanControl.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -105,6 +120,9 @@
     <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <Private>True</Private>
       <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.2\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="SystemConfiguration">
+      <HintPath>..\DLL Pack\SystemConfiguration.dll</HintPath>
     </Reference>
     <Reference Include="WebGrease">
       <Private>True</Private>
@@ -289,6 +307,10 @@
       <Project>{4f08528d-fa60-4b7e-801a-9cc57888e74f}</Project>
       <Name>InterBlock.BI.Models</Name>
     </ProjectReference>
+    <ProjectReference Include="..\InterBlock.BI.ViewModels\InterBlock.BI.ViewModels.csproj">
+      <Project>{cea5fb94-7b35-4db1-8aa3-9a1586a60c3a}</Project>
+      <Name>InterBlock.BI.ViewModels</Name>
+    </ProjectReference>
     <ProjectReference Include="..\InterBlock.DataEngine.Common\InterBlock.DataEngine.Common.csproj">
       <Project>{7493ddba-0c5e-4eb9-a6f2-01eb62df63d9}</Project>
       <Name>InterBlock.DataEngine.Common</Name>
@@ -312,6 +334,10 @@
     <ProjectReference Include="..\InterBlock.Helpers.Configurations\InterBlock.Helpers.Configurations.csproj">
       <Project>{a429f3af-0986-48a5-8537-f6acfb0a58ff}</Project>
       <Name>InterBlock.Helpers.Configurations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterBlock.Helpers.CyperEngine\InterBlock.Helpers.CyperEngine.csproj">
+      <Project>{20edb422-ab5c-481f-8f96-d1389b220197}</Project>
+      <Name>InterBlock.Helpers.CyperEngine</Name>
     </ProjectReference>
     <ProjectReference Include="..\InterBlock.Helpers.Enums\InterBlock.Helpers.Enums.csproj">
       <Project>{1995e7ad-0834-44c2-a803-f974fee52d4c}</Project>

@@ -48,6 +48,7 @@ namespace InterBlock.Api.Service.Controllers
             }
             catch (Exception ex)
             {
+                
                 return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, ex);
             }
         }
@@ -120,6 +121,7 @@ namespace InterBlock.Api.Service.Controllers
             }
             catch (Exception ex)
             {
+                Logger.LogExceptionOnControllers(ex, System.Reflection.MethodBase.GetCurrentMethod().Name);
                 return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, ex);
             }
         }

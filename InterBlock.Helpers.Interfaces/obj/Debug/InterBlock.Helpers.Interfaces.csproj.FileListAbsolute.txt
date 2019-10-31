@@ -18,3 +18,9 @@ I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Interfaces\bin\Debug\InterB
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.csprojResolveAssemblyReference.cache
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.dll
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Interfaces\bin\Debug\InterBlock.Helpers.Interfaces.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Interfaces\bin\Debug\InterBlock.Helpers.Interfaces.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.csprojAssemblyReference.cache
+D:\File\Statements\IB_Service\InterBlock.Helpers.Interfaces\obj\Debug\InterBlock.Helpers.Interfaces.csproj.CoreCompileInputs.cache

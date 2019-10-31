@@ -47,3 +47,12 @@ I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Hel
 I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.csprojResolveAssemblyReference.cache
 I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.dll
 I:\IB\File\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Configurations.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\bin\Debug\InterBlock.Helpers.Enums.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.csprojAssemblyReference.cache
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.csproj.CoreCompileInputs.cache
+D:\File\Statements\IB_Service\InterBlock.Helpers.Configurations\obj\Debug\InterBlock.Helpers.Configurations.csproj.CopyComplete

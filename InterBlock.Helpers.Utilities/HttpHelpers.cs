@@ -49,11 +49,17 @@ namespace InterBlock.Helpers.Utilities
     {
         protected override async Task<HttpResponseMessage> SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
         {
-            var logMetadata = BuildRequestMetadata(request);
-            var response = await base.SendAsync(request, cancellationToken);
-            logMetadata = BuildResponseMetadata(logMetadata, response);
-            await SendToLog(logMetadata);
-            return response;
+            try
+            {
+                var logMetadata = BuildRequestMetadata(request);
+                var response = await base.SendAsync(request, cancellationToken);
+                logMetadata = BuildResponseMetadata(logMetadata, response);
+                await SendToLog(logMetadata);
+                return response;
+            }
+            catch (Exception ex) {
+                throw ex;
+            }
         }
         private LogMetadata BuildRequestMetadata(HttpRequestMessage request)
         {

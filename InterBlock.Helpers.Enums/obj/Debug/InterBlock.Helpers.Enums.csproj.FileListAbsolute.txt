@@ -24,3 +24,9 @@ I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Enums\bin\Debug\InterBlock.
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.csprojResolveAssemblyReference.cache
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.dll
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Enums\bin\Debug\InterBlock.Helpers.Enums.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Enums\bin\Debug\InterBlock.Helpers.Enums.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.dll
+D:\File\Statements\IB_Service\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.pdb
+D:\File\Statements\IB_Service\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.csprojAssemblyReference.cache
+D:\File\Statements\IB_Service\InterBlock.Helpers.Enums\obj\Debug\InterBlock.Helpers.Enums.csproj.CoreCompileInputs.cache

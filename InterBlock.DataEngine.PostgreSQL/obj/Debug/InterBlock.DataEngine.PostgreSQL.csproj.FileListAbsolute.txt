@@ -95,3 +95,22 @@ I:\IB\IN\Statement Dev\InterBlock\InterBlock.DataEngine.PostgreSQL\bin\Debug\Dap
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.DataEngine.PostgreSQL\obj\Debug\InterBlock.DataEngine.PostgreSQL.csprojResolveAssemblyReference.cache
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.DataEngine.PostgreSQL\obj\Debug\InterBlock.DataEngine.PostgreSQL.dll
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.DataEngine.PostgreSQL\obj\Debug\InterBlock.DataEngine.PostgreSQL.pdb
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.DataEngine.PostgreSQL.dll
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.DataEngine.PostgreSQL.pdb
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\bin\Debug\Dapper.dll
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.BI.Models.dll
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.Helpers.Configurations.dll
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.Helpers.Enums.dll
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.Helpers.Interfaces.dll
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\bin\Debug\Dapper.Contrib.dll
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.BI.Models.pdb
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.Helpers.Configurations.pdb
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.Helpers.Enums.pdb
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\bin\Debug\InterBlock.Helpers.Interfaces.pdb
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\bin\Debug\Dapper.xml
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\bin\Debug\Dapper.Contrib.xml
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\obj\Debug\InterBlock.DataEngine.PostgreSQL.dll
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\obj\Debug\InterBlock.DataEngine.PostgreSQL.pdb
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\obj\Debug\InterBlock.DataEngine.PostgreSQL.csprojAssemblyReference.cache
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\obj\Debug\InterBlock.DataEngine.PostgreSQL.csproj.CoreCompileInputs.cache
+D:\File\Statements\IB_Service\InterBlock.DataEngine.PostgreSQL\obj\Debug\InterBlock.DataEngine.PostgreSQL.csproj.CopyComplete

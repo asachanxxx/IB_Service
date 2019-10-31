@@ -1,4 +1,5 @@
-﻿using Interblocks;
+﻿using InterBlock.Helpers.Configurations;
+using Interblocks;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,27 +12,29 @@ namespace InterBlock.Helpers.Utilities
     {
 
         //System Configuration
-        public static string ConfigPath = System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), @"Interblocks\Statement Module\Statement Data Service\Config\SystemConfiguration.cnf");
-        public static string SystemKeyPath = System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), @"Interblocks\Statement Module\Statement Data Service\Config\SystemConfiguration.key");
+        ////public static string ConfigPath = System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), @"Interblocks\Statement Module\Statement Data Service\Config\SystemConfiguration.cnf");
+        ////public static string SystemKeyPath = System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), @"Interblocks\Statement Module\Statement Data Service\Config\SystemConfiguration.key");
         public static string SysKey;
 
 
         //Log Configuration
-        public static string LogSysConfigPath = System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), @"Interblocks\Statement Module\Statement Data Service\Config\StatementDataServiceLogConfiguration.cnf");
-        public static string LogKeyPath = System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), @"Interblocks\Statement Module\Statement Data Service\Config\StatementDataServiceLogConfiguration.key");
+        //public static string LogSysConfigPath = System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), @"Interblocks\Statement Module\Statement Data Service\Config\StatementDataServiceLogConfiguration.cnf");
+        //public static string LogKeyPath = System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), @"Interblocks\Statement Module\Statement Data Service\Config\StatementDataServiceLogConfiguration.key");
         public static string LogKey;
+
+
 
         public static void LoggerInitialize()
         {
             //System Configuration
             IBKeyStore oStore = new IBKeyStore();
-            SysKey = oStore.GetMasterKey(SystemKeyPath);
-            SystemConfiguration.Initialize(SysKey, ConfigPath);
+            SysKey = oStore.GetMasterKey(MainConfigurationPaths.SystemKeyPath);
+            SystemConfiguration.Initialize(SysKey, MainConfigurationPaths.ConfigPath);
 
             //Log Configuration
             IBKeyStore oLogStore = new IBKeyStore();
-            LogKey = oLogStore.GetMasterKey(LogKeyPath);
-            IBLogInstanceProperties oLogInstanceProp = new IBLogInstanceProperties(LogKey, LogSysConfigPath);
+            LogKey = oLogStore.GetMasterKey(MainConfigurationPaths.LogKeyPath);
+            IBLogInstanceProperties oLogInstanceProp = new IBLogInstanceProperties(LogKey, MainConfigurationPaths.LogSysConfigPath);
             IBLogInstance log = new IBLogInstance("001", oLogInstanceProp);
             IBLogger.AddInstance(log);
             IBLogger.Initialize(oLogInstanceProp);
@@ -90,6 +93,10 @@ namespace InterBlock.Helpers.Utilities
             var paddingone = message.PadLeft(30,'-').PadRight(70,'-');
             IBLogger.Write(LOG_OPTION.INFO, paddingone);
         }
+        public static void LogEmpty()
+        {
+            IBLogger.Write(LOG_OPTION.INFO, "");
+        }
 
         public static void LogSeparater()
         {
@@ -99,6 +106,21 @@ namespace InterBlock.Helpers.Utilities
         {
             var paddingone = message.PadLeft(30, '-').PadRight(70, '-');
             IBLogger.Write(LOG_OPTION.INFO, paddingone);
+        }
+
+        public static void LogExceptionOnControllers(Exception logMetadata, string methodname)
+        {
+            Logger.LogEmpty();
+            Logger.LogSubHeader("Exception Occured on Below Request");
+            Logger.LogError("Error Text: ", logMetadata.Message);
+            Logger.LogInfo("StackTrace", logMetadata.StackTrace);
+            if (logMetadata.InnerException != null) {
+                Logger.LogError("Inner Exception: ", logMetadata.InnerException.Message);
+            }
+            Logger.LogSeparater("Exception Ended");
+            Logger.LogEmpty();
+
+           
         }
     }
 }

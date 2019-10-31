@@ -51,6 +51,17 @@
       <Name>InterBlock.Helpers.Enums</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="configs\StatementDataServiceLogConfiguration.cnf" />
+    <None Include="configs\StatementDataServiceLogConfiguration.key" />
+    <None Include="configs\SystemConfiguration.cnf" />
+    <None Include="configs\SystemConfiguration.key" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="configs\StatementDataServiceLogConfiguration.dll" />
+    <Content Include="configs\SystemConfiguration.dll" />
+    <Content Include="configs\SystemConfiguration.xml" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

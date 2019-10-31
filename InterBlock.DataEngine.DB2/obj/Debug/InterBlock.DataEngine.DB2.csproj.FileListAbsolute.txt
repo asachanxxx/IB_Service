@@ -95,3 +95,22 @@ I:\IB\IN\Statement Dev\InterBlock\InterBlock.DataEngine.DB2\bin\Debug\Dapper.xml
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.DataEngine.DB2\obj\Debug\InterBlock.DataEngine.DB2.csprojResolveAssemblyReference.cache
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.DataEngine.DB2\obj\Debug\InterBlock.DataEngine.DB2.dll
 I:\IB\IN\Statement Dev\InterBlock\InterBlock.DataEngine.DB2\obj\Debug\InterBlock.DataEngine.DB2.pdb
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\bin\Debug\InterBlock.DataEngine.DB2.dll
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\bin\Debug\InterBlock.DataEngine.DB2.pdb
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\bin\Debug\InterBlock.BI.Models.dll
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\bin\Debug\InterBlock.Helpers.Configurations.dll
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\bin\Debug\InterBlock.Helpers.Enums.dll
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\bin\Debug\InterBlock.Helpers.Interfaces.dll
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\bin\Debug\Dapper.Contrib.dll
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\bin\Debug\Dapper.dll
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\bin\Debug\InterBlock.BI.Models.pdb
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\bin\Debug\InterBlock.Helpers.Configurations.pdb
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\bin\Debug\InterBlock.Helpers.Enums.pdb
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\bin\Debug\InterBlock.Helpers.Interfaces.pdb
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\bin\Debug\Dapper.Contrib.xml
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\bin\Debug\Dapper.xml
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\obj\Debug\InterBlock.DataEngine.DB2.dll
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\obj\Debug\InterBlock.DataEngine.DB2.pdb
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\obj\Debug\InterBlock.DataEngine.DB2.csprojAssemblyReference.cache
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\obj\Debug\InterBlock.DataEngine.DB2.csproj.CoreCompileInputs.cache
+D:\File\Statements\IB_Service\InterBlock.DataEngine.DB2\obj\Debug\InterBlock.DataEngine.DB2.csproj.CopyComplete
